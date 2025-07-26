@@ -1,16 +1,19 @@
-<div align="right">
-  <img src="https://github.com/MariaRitaRR/MariaRitaRR/blob/main/setupKuro.png?raw=true" alt="Maria Rita no setup com Kuro" width="300"/>
-</div>
-<div align="left">
 
-# 👋 Oi! Eu sou a Maria Rita!
+<table>
+  <tr>
+    <td>
 
+### 👋 Oi! Eu sou a Maria Rita!  
 💻 Estudante de Engenharia da Computação no INATEL  
 🏐 Jogadora de vôlei amador desde 2019 — já participei de vários campeonatos  
-💡 Apaixonada por tecnologia, ensino e criatividade no código  
+💡 Apaixonada por tecnologia, ensino e criatividade no código
 
-</div>
-
+</td>
+    <td>
+      <img src="https://github.com/MariaRitaRR/MariaRitaRR/blob/main/setupKuro.png?raw=true" alt="Maria Rita no setup com Kuro" width="200"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🎯 Atualmente estou...
