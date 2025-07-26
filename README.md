@@ -1,8 +1,8 @@
-
-<div align="center">
-<div align="center">
+<div align="right">
   <img src="https://github.com/MariaRitaRR/MariaRitaRR/blob/main/setupKuro.png?raw=true" alt="Maria Rita no setup com Kuro" width="300"/>
 </div>
+<div align="left">
+
 # 👋 Oi! Eu sou a Maria Rita!
 
 💻 Estudante de Engenharia da Computação no INATEL  
