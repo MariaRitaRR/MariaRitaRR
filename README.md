@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Maria Rita no setup com Kuro]([https://chat.openai.com/cdn-cgi/imagedelivery/T2I1j7tC3vJ7EVOYw0I1Nw/file_00000000e2b461f99e2c718a349002f7/public](https://github.com/MariaRitaRR/MariaRitaRR/blob/main/setupKuro.png?raw=true))
+![Maria Rita no setup com Kuro](https://github.com/MariaRitaRR/MariaRitaRR/blob/main/setupKuro.png?raw=true)
 
 # 👋 Oi! Eu sou a Maria Rita!
 
