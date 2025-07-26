@@ -1,7 +1,7 @@
 
 <div align="center">
 <div align="center">
-  <img src="https://github.com/MariaRitaRR/MariaRitaRR/blob/main/setupKuro.png?raw=true" alt="Maria Rita no setup com Kuro" width="500"/>
+  <img src="https://github.com/MariaRitaRR/MariaRitaRR/blob/main/setupKuro.png?raw=true" alt="Maria Rita no setup com Kuro" width="300"/>
 </div>
 # 👋 Oi! Eu sou a Maria Rita!
 
