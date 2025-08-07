@@ -72,7 +72,7 @@ Repositório com exercícios e projetos feitos durante a disciplina de Programa�
 
 Estou aberta a estágios remunerados, colaborações e boas conversas sobre tecnologia, ensino, gatos ou vôlei! 😄  
 
-[![LinkedIn](www.linkedin.com/in/maria-rita-raposo-rosa-94a5b9268)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/maria-rita-raposo-rosa-94a5b9268)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/seuusuario)
 ✉️ mariaritaraposo@outlook.com
 
