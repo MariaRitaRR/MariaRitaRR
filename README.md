@@ -10,7 +10,7 @@
 
 </td>
     <td>
-      <img src="https://github.com/MariaRitaRR/MariaRitaRR/blob/main/setupKuro.png?raw=true" alt="Maria Rita no setup com Kuro" width="200"/>
+      <img src="https://github.com/MariaRitaRR/MariaRitaRR/blob/main/setupKuro.png?raw=true" alt="Maria Rita no setup com Kuro" width="150" style = "margin-left: 20px;"/>
     </td>
   </tr>
 </table>
@@ -72,7 +72,7 @@ Repositório com exercícios e projetos feitos durante a disciplina de Programa�
 
 Estou aberta a estágios remunerados, colaborações e boas conversas sobre tecnologia, ensino, gatos ou vôlei! 😄  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seulinkedin)
+[![LinkedIn](www.linkedin.com/in/maria-rita-raposo-rosa-94a5b9268)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/seuusuario)
 ✉️ mariaritaraposo@outlook.com
 
