@@ -4,9 +4,7 @@
     <td>
 
 ### 👋 Oi! Eu sou a Maria Rita!  
-💻 Estudante de Engenharia da Computação no INATEL  
-🏐 Jogadora de vôlei amador desde 2019 — já participei de vários campeonatos  
-💡 Apaixonada por tecnologia, ensino e criatividade no código
+💻 Estudante de Engenharia da Computação no INATEL    
 
 </td>
     <td>
