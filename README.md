@@ -1,75 +1,91 @@
+# Maria Rita Raposo Rosa
 
-<table>
-  <tr>
-    <td>
+Estudante de Engenharia da Computação no Instituto Nacional de Telecomunicações (INATEL), com experiência em desenvolvimento de software, integração de sistemas, telemetria e automação.
 
-### 👋 Oi! Eu sou a Maria Rita!  
-💻 Estudante de Engenharia da Computação no INATEL    
+Atualmente atuo na área de suporte técnico e telemetria, trabalhando com configuração e testes de equipamentos, monitoramento de dispositivos, análise de redes, automação com scripts e suporte a infraestrutura Linux.
 
-</td>
-    <td>
-      <img src="https://github.com/MariaRitaRR/MariaRitaRR/blob/main/setupKuro.png?raw=true" alt="Maria Rita no setup com Kuro" width="150" style = "margin-left: 20px;"/>
-    </td>
-  </tr>
-</table>
----
+Também atuo como monitora de disciplinas de Física, Cálculo e Matemática Aplicada à Engenharia, auxiliando alunos no desenvolvimento acadêmico e fortalecendo habilidades de comunicação, resolução de problemas e raciocínio analítico.
 
-## 🎯 Atualmente estou...
-- 📖 Estudando **HTML, CSS e JavaScript** com um curso da Udemy  
-- ☕ Lendo um livro sobre **Java** e me aprofundando na linguagem
-- ☕ Fazendo um curso da ADA sobre **Java**
-- 💼 Procurando uma **oportunidade de estágio remunerado**  
-- 📚 Atuando como **monitora** de Matemática Aplicada, Cálculo 1, Física 1, 2 e 3  
+Tenho interesse em:
+- Desenvolvimento Back-end
+- Integração de APIs
+- Inteligência Artificial
+- Banco de Dados
+- Automação
+- Redes e Sistemas Embarcados
 
 ---
 
-## Projetos de Destaque 
+# Experiência Acadêmica
 
-### Bookle — Sistema de Reserva de Livros
-Projeto full stack para gerenciamento e reserva de livros.
-Backend: Node.js, Express, Sequelize, PostgreSQL/MySQL
-Frontend: React, Context API, Axios
-Autenticação: JWT
-Qualidade: Testes automatizados (Jest, Supertest)
-DevOps: CI/CD com Jenkins
-Foco em boas práticas, organização de código e arquitetura escalável
+## Inteligência Artificial
+Desenvolvimento de projetos envolvendo:
+- Redes neurais artificiais
+- CNNs para classificação de imagens
+- Análise exploratória de dados
+- Processamento e treinamento de modelos utilizando Python e bibliotecas de IA
 
-
-### Sistema do Mundo Mágico de Harry Potter  
-Um sistema completo de gerenciamento inspirado em Hogwarts!
-
-- Cadastro e gerenciamento de bruxos, casas, varinhas, feitiços e criaturas mágicas  
-- Relatórios avançados como ranking de feitiços e histórico de encontros com criaturas  
-- Projeto feito com muito carinho, lógica relacional e amor pelo universo mágico ✨
-
-### 📦 POO com Java  
-Repositório com exercícios e projetos feitos durante a disciplina de Programação Orientada a Objetos.
+## Banco de Dados II
+Projetos focados em:
+- Modelagem relacional avançada
+- Procedures, triggers e views
+- Consultas SQL complexas
+- Integração entre banco de dados e aplicações
+- Desenvolvimento de sistemas utilizando PostgreSQL/MySQL
 
 ---
 
-## 🛠️ Tecnologias favoritas
+# Projetos
+
+## Bookle — Sistema de Reserva de Livros
+
+Sistema full stack para gerenciamento e reserva de livros.
+
+### Tecnologias utilizadas
+- Node.js
+- Express
+- React
+- PostgreSQL/MySQL
+- JWT
+- Jest
+- Jenkins
+
+### Principais funcionalidades
+- Autenticação de usuários
+- Reserva de livros
+- API REST
+- Testes automatizados
+- Pipeline CI/CD
+
+---
+
+## Sistema de Gerenciamento do Mundo Mágico
+
+Sistema inspirado no universo Harry Potter com gerenciamento de:
+- Bruxos
+- Casas
+- Feitiços
+- Criaturas mágicas
+- Relatórios e consultas relacionais avançadas
+
+Projeto desenvolvido com foco em modelagem de banco de dados e lógica relacional.
+
+---
+
+# Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter Flow](https://img.shields.io/badge/Flutter_Flow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📫 Quer trocar uma ideia?
+# Contato
 
-Estou aberta a estágios remunerados, colaborações e boas conversas sobre tecnologia! 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maria-rita-raposo-rosa-94a5b9268)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/seuusuario)
-✉️ mariaritaraposo@outlook.com
-
----
-
-> “Errar faz parte — o mais mágico é quando tudo começa a funcionar.” ✨
+- GitHub: https://github.com/MariaRitaRR
+- LinkedIn: https://www.linkedin.com/in/maria-rita-raposo-rosa-94a5b9268
+- Email: mariaritaraposo@outlook.com
