@@ -25,6 +25,15 @@ Desenvolvimento de projetos envolvendo:
 - Análise exploratória de dados
 - Processamento e treinamento de modelos utilizando Python e bibliotecas de IA
 
+## Banco de Dados I
+Desenvolvimento do projeto **Sistema de Gerenciamento do Mundo Mágico**, com foco em:
+- Modelagem de banco de dados relacional
+- Normalização de dados
+- Diagramas Entidade-Relacionamento (DER)
+- Consultas SQL
+- Relacionamentos entre entidades
+- Regras de negócio aplicadas ao universo Harry Potter
+
 ## Banco de Dados II
 Projetos focados em:
 - Modelagem relacional avançada
@@ -33,6 +42,24 @@ Projetos focados em:
 - Integração entre banco de dados e aplicações
 - Desenvolvimento de sistemas utilizando PostgreSQL/MySQL
 
+## Programação Orientada a Objetos
+Desenvolvimento de aplicações utilizando:
+- Java
+- Conceitos de orientação a objetos
+- Herança, polimorfismo e encapsulamento
+- Tratamento de exceções
+- Estruturas de dados
+- Desenvolvimento de sistemas desktop e aplicações acadêmicas
+
+## Engenharia de Software
+Desenvolvimento do projeto **Bookle — Sistema de Reserva de Livros**, aplicando:
+- Levantamento e análise de requisitos
+- Modelagem UML
+- Arquitetura de software
+- Desenvolvimento Full Stack
+- Testes de software
+- Integração contínua (CI/CD)
+- Trabalho em equipe utilizando metodologias ágeis
 ---
 
 # Projetos
