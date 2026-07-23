@@ -4,8 +4,6 @@ Estudante de Engenharia da Computação no Instituto Nacional de Telecomunicaç�
 
 Atualmente atuo na área de suporte técnico e telemetria, trabalhando com configuração e testes de equipamentos, monitoramento de dispositivos, análise de redes, automação com scripts e suporte a infraestrutura Linux.
 
-Também atuo como monitora de disciplinas de Física, Cálculo e Matemática Aplicada à Engenharia, auxiliando alunos no desenvolvimento acadêmico e fortalecendo habilidades de comunicação, resolução de problemas e raciocínio analítico.
-
 Tenho interesse em:
 - Desenvolvimento Back-end
 - Integração de APIs
