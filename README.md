@@ -72,18 +72,6 @@ Aplicações em Java com herança, polimorfismo, encapsulamento, tratamento de e
 
 ---
 
-## ✨ GitHub Stats
-
-<div align="center">
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=MariaRitaRR&show_icons=true&hide_border=true&title_color=7E42AC&icon_color=A788DC&text_color=6B297C&bg_color=ffffff)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRitaRR&layout=compact&hide_border=true&title_color=7E42AC&text_color=6B297C&bg_color=ffffff)
-
-</div>
-
----
-
 ## 💌 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-3B165C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaRitaRR)
